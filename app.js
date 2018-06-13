@@ -10,5 +10,5 @@ boton.addEventListener("click", ()=> {
   contenedorElemento.appendChild(textNuevoComentario);
   nuevosComentarios.appendChild(contenedorElemento);
   twiteado.appendChild(nuevosComentarios);
-
+//No entiendo por que no me funciona, más tarde seguiré intentando
 })
